@@ -1,2 +1,1 @@
-# frontend-starter
-Repo for learning frontend
+This my first repository
